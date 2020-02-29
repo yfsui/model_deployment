@@ -2,6 +2,10 @@
 
 Deploy the CNN model as a service on AWS
 
+<br>
+
+### Files included in this repo:
+
 ***my_lambda_pre_processor.py***: lambda function
 
 ***pre_processing***: preprocessing library
